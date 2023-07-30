@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* HTML id CSS # (só pode um elemento)
+HTML class CSS . (pode varios elementos)*/
+
+body{
+    background-color: rgb(67, 67, 252);
+}
+h1{
+    color: rgb(0, 0, 175);
+}
+/*USEI A TAG ID NO HTML PARA PERSONALIZAR UM H1 ESPECIFICO E O # PARA IDENTIFICAR O NOME DA ID*/
+h1#principal{ 
+    text-align: center;
+    background-color: gray;
+    
+}
+h2{
+    color: rgb(1, 1, 84);
+}
+
+.subtitulo{
+color: brown;
+}
